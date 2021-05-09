@@ -1,5 +1,5 @@
 ---
-title: 'n0sy.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'n0sy.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "n0sy.com is under construction."
 ---
 
